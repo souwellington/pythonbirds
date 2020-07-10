@@ -1,5 +1,5 @@
 class Pessoa:
-    print('ok')
+    print('ok certo')
     pass
 
 
